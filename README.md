@@ -33,5 +33,4 @@ React
 
 ## Image
 
-![After running the front end server]
-(https://user-images.githubusercontent.com/54663490/125156082-0aaf9800-e1a7-11eb-8274-902cff9c699a.png)
+![After running the front end server](https://user-images.githubusercontent.com/54663490/125156082-0aaf9800-e1a7-11eb-8274-902cff9c699a.png)
